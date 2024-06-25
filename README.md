@@ -120,7 +120,7 @@ if you encounter any weird interface name , rename the Wireless interface by fol
   Done.  
   ```
 
-- delete this file using  ```sudo rm -rf /var/lib/dkms/8812au/```.
+- delete this file using  ```sudo rm -rf /var/lib/dkms/8812au/```.a
 
   
 ## References
